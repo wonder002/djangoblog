@@ -2,7 +2,7 @@ from .settings import *
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['wonder002.pythonanywhere.com']
+ALLOWED_HOSTS = ['wunde.pythonanywhere.com']
 
 # Database
 DATABASES = {

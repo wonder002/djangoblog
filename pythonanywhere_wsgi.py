@@ -2,7 +2,7 @@ import os
 import sys
 
 # PythonAnywhere에서 프로젝트 경로 설정
-path = '/home/wonder002/djangoblog'
+path = '/home/wunde/djangoblog'
 if path not in sys.path:
     sys.path.append(path)
 
